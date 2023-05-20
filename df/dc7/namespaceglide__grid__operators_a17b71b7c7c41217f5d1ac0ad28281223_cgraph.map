@@ -1,0 +1,3 @@
+<map id="glide_grid_operators::dfdx_3d_stag" name="glide_grid_operators::dfdx_3d_stag">
+<area shape="rect" id="node1" title="Computes derivative with respect to x at the equivalent point on a staggered grid." alt="" coords="5,29,144,69"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="setframe" name="setframe">
+<area shape="rect" id="node1" title="sets the record dimension of a variable in a netcdf format file or the block address in a binary file" alt="" coords="5,29,79,55"/>
+</map>

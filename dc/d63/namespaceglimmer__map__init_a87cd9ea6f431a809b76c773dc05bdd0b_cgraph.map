@@ -1,0 +1,11 @@
+<map id="glimmer_map_init::glimmap_proj_define" name="glimmer_map_init::glimmap_proj_define">
+<area shape="rect" id="node1" title="Defines a projection from scratch, and initialises the other elements appropriately." alt="" coords="5,133,187,173"/>
+<area shape="rect" id="node2" href="$dc/d63/namespaceglimmer__map__init.html#a1d03257ec2c389239b2cf00242d7815b" title="initialise Lambert azimuthal equal area projection" alt="" coords="235,5,416,45"/>
+<area shape="rect" id="node3" href="$dc/d63/namespaceglimmer__map__init.html#a3ed8a91682ddfda5061cbf9dc8f98425" title="initialise Lambert azimuthal equal area projection" alt="" coords="235,69,416,109"/>
+<area shape="rect" id="node4" href="$dc/d63/namespaceglimmer__map__init.html#ac275b5f0468737fb586fcd48f706f280" title="initialise Lambert conformal conic projection" alt="" coords="235,133,416,173"/>
+<area shape="rect" id="node5" href="$dc/d63/namespaceglimmer__map__init.html#af7be18f25557157bf06c5ebde0b27e31" title="initialise stereographic projection" alt="" coords="235,197,416,237"/>
+<area shape="rect" id="node6" href="$d0/d70/namespaceglimmer__log.html#a690118c42311d82e3cd39e2d4a246269" title="write to log" alt="" coords="464,234,616,259"/>
+<area shape="rect" id="node7" href="$d0/d70/namespaceglimmer__log.html#a018f62e43c83a828af946ab83bdc553e" title="close log file" alt="" coords="664,209,819,234"/>
+<area shape="rect" id="node9" href="$d1/d80/namespaceparallel.html#ad65d2cda5047342220f8371b3459e8ff" title=" " alt="" coords="669,258,813,283"/>
+<area shape="rect" id="node8" href="$d0/d70/namespaceglimmer__log.html#ac1a7f72ca3f16ce04764793f68cbddea" title="start a new section" alt="" coords="867,201,995,241"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="glimmer_coordinates::coordsystem_node_inside" name="glimmer_coordinates::coordsystem_node_inside">
+<area shape="rect" id="node1" title="return true iff node is inside coord system" alt="" coords="5,29,187,69"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="glide::glide_initialise" name="glide::glide_initialise">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1013,144,1038"/>
+<area shape="rect" id="node2" href="$de/d4c/namespaceglide__bwater.html#a67053da59d6d2bc658da0ae8242c6095" title=" " alt="" coords="202,49,369,74"/>
+<area shape="rect" id="node4" href="$d1/d80/namespaceparallel.html#aad902ff3ad720c3f98c685cbba881918" title=" " alt="" coords="206,134,365,159"/>
+<area shape="rect" id="node7" href="$d5/d1f/namespaceglide__types.html#a1433166610bc78322c91aa4da74c30f4" title=" " alt="" coords="224,345,347,385"/>
+<area shape="rect" id="node8" href="$d0/d70/namespaceglimmer__log.html#a690118c42311d82e3cd39e2d4a246269" title="write to log" alt="" coords="657,741,809,766"/>
+<area shape="rect" id="node9" href="$d4/d3b/namespaceglide__thck.html#a116fc8665e9adb1d5492aaec27dac5a8" title=" " alt="" coords="203,1466,368,1491"/>
+<area shape="rect" id="node10" href="$da/d28/namespaceglide__diagnostics.html#a67e725f51f1696006a553bbd9f797aca" title=" " alt="" coords="453,184,583,224"/>
+<area shape="rect" id="node12" href="$d1/d6c/namespaceglide__setup.html#a9ea40547febcb994ec9a5524a03ce79a" title=" " alt="" coords="224,456,347,496"/>
+<area shape="rect" id="node15" href="$d4/d8a/namespaceglide__profile.html#a5f89bed6c084fac215b3d3838a0e3cdd" title=" " alt="" coords="222,733,349,773"/>
+<area shape="rect" id="node18" href="$d1/d6c/namespaceglide__setup.html#aaa142852647dd81954b28bce3ef655a6" title=" " alt="" coords="224,1516,347,1556"/>
+<area shape="rect" id="node19" href="$d1/df5/namespaceglide__mask.html#a4e9988fd66911f5ebc1bf589670e801f" title=" " alt="" coords="192,1581,379,1606"/>
+<area shape="rect" id="node21" href="$dc/d63/namespaceglimmer__map__init.html#af81993a24f0445629aae23823329604a" title="print projection info to log" alt="" coords="195,853,376,893"/>
+<area shape="rect" id="node22" href="$dc/d63/namespaceglimmer__map__init.html#a2404cb955d245d41c0d022c4dca24ae8" title="compute local area scale factors for stereographic projection" alt="" coords="195,973,376,1013"/>
+<area shape="rect" id="node24" href="$de/dbe/namespaceglimmer__scales.html#a6f6055cd0161288ec7720dd749242da8" title=" " alt="" coords="202,1631,369,1671"/>
+<area shape="rect" id="node25" href="$d6/d66/namespaceisostasy.html#ac592c0692301d53ad72815b89ff57d1a" title=" " alt="" coords="209,1695,361,1721"/>
+<area shape="rect" id="node27" href="$da/d55/namespaceglide__lithot.html#a47c6cfea1250ffc274bd79fc86836773" title=" " alt="" coords="231,552,340,592"/>
+<area shape="rect" id="node30" href="$d4/d3b/namespaceglide__thck.html#aabaa0ed6955b106a91f172559ecdb9c7" title=" " alt="" coords="216,1745,355,1770"/>
+<area shape="rect" id="node31" href="$d1/df4/namespaceglide__velo.html#a3333fa06b6490d755689c5814c308127" title=" " alt="" coords="217,1794,353,1819"/>
+<area shape="rect" id="node32" href="$d6/d66/namespaceisostasy.html#a1358a6a55de2d555d27d317e67dff7d1" title=" " alt="" coords="209,2367,361,2393"/>
+<area shape="rect" id="node35" href="$df/d42/glimmer__ncio_8_f90.html#ad940c34c5631cea807bc486390d6c98e" title=" " alt="" coords="241,1417,329,1442"/>
+<area shape="rect" id="node50" href="$d2/d9f/namespaceglide__stop.html#a7c2de4039b8eed30de16b18e6a22d38d" title=" " alt="" coords="219,1037,351,1077"/>
+<area shape="rect" id="node3" href="$de/d4c/namespaceglide__bwater.html#a01fe9b39411b2bfd5762183a984fcad7" title=" " alt="" coords="456,5,580,45"/>
+<area shape="rect" id="node5" href="$d1/d80/namespaceparallel.html#a721678d7211f5a69dfd5c532879152f0" title=" " alt="" coords="453,69,583,109"/>
+<area shape="rect" id="node6" href="$d1/d80/namespaceparallel.html#ad65d2cda5047342220f8371b3459e8ff" title=" " alt="" coords="857,191,1001,217"/>
+<area shape="rect" id="node11" href="$d1/d80/namespaceparallel.html#a809913e08b5c1a89718172b86529023f" title=" " alt="" coords="677,184,789,224"/>
+<area shape="rect" id="node13" href="$d1/d6c/namespaceglide__setup.html#ada65c88fb6c7dc1da566d946542249d6" title=" " alt="" coords="457,424,579,464"/>
+<area shape="rect" id="node14" href="$db/d4e/namespaceglimmer__filenames.html#a18bb4ac509e0e54039e18e4f558b5ecd" title="append path to working dir" alt="" coords="449,929,587,969"/>
+<area shape="rect" id="node16" href="$d8/d6b/namespaceprofile.html#afa6a42018b111aa8dbe86cfcd92ebe18" title="initialise a profile" alt="" coords="456,667,580,693"/>
+<area shape="rect" id="node17" href="$d8/d6b/namespaceprofile.html#a9ed47965d378bee52568d34821bf56cb" title="register a new series of meassurements" alt="" coords="443,741,593,766"/>
+<area shape="rect" id="node20" href="$d1/df5/namespaceglide__mask.html#a58df9a73aa2ac17c71e9c0c731218e08" title=" " alt="" coords="433,2253,603,2278"/>
+<area shape="rect" id="node23" href="$d1/d80/namespaceparallel.html#adb2cdaad833bc1c9fd2621cda445e0cd" title=" " alt="" coords="462,841,574,881"/>
+<area shape="rect" id="node26" href="$de/d8f/namespaceisostasy__elastic.html#a159aaed63d71a89531b9286e4dac0813" title=" " alt="" coords="447,2303,589,2343"/>
+<area shape="rect" id="node28" href="$d6/dcb/namespaceglide__lithot1d.html#ae877c9726a37f3a1debd9707f0384d7a" title=" " alt="" coords="457,488,579,528"/>
+<area shape="rect" id="node29" href="$d8/d99/namespaceglide__lithot3d.html#aefc67f8fd05d6d374588b88044db8c32" title=" " alt="" coords="457,552,579,592"/>
+<area shape="rect" id="node33" href="$d6/d66/namespaceisostasy.html#a84bcfdd19018c78823841c489dcc282e" title=" " alt="" coords="427,2417,609,2442"/>
+<area shape="rect" id="node34" href="$d6/d66/namespaceisostasy.html#ad09c16f13b5658fa08b675648314a728" title=" " alt="" coords="431,2367,605,2393"/>
+<area shape="rect" id="node36" href="$dd/d39/namespaceglimmer__map__types.html#a91a6858b20b45d60bc4681b786f09129" title="return true if structure contains a known projection" alt="" coords="660,1813,807,1853"/>
+<area shape="rect" id="node37" href="$de/d40/namespaceglimmer__map__cfproj.html#ac40740bdea41b34ae667608bce0ec6f5" title="Read projection from a given netCDF file, returning an instance of type glimmap_proj." alt="" coords="449,1721,587,1761"/>
+<area shape="rect" id="node38" href="$de/d40/namespaceglimmer__map__cfproj.html#a2a89c82cd5b50d811a62a8c95b887807" title="write projection to a netCDF file." alt="" coords="449,1785,587,1825"/>
+<area shape="rect" id="node39" href="$d1/d80/namespaceparallel.html#a60157af06ff07d7fbafdf223a5354347" title=" " alt="" coords="462,1924,574,1964"/>
+<area shape="rect" id="node40" href="$d1/d80/namespaceparallel.html#ab7e53e16e3490362623751efa695fe5a" title=" " alt="" coords="462,2012,574,2052"/>
+<area shape="rect" id="node41" href="$d1/d80/namespaceparallel.html#a81363c70970663076620c25d3e714af9" title=" " alt="" coords="462,2100,574,2140"/>
+<area shape="rect" id="node42" href="$d1/d80/namespaceparallel.html#aa1a1a2f3a5b7b216b9eb716deb5c4cde" title=" " alt="" coords="462,2188,574,2228"/>
+<area shape="rect" id="node43" href="$d1/d80/namespaceparallel.html#aaae673fd7e73cc107573628ae9cc898e" title=" " alt="" coords="462,1119,574,1159"/>
+<area shape="rect" id="node44" href="$d1/d80/namespaceparallel.html#a4b4429f47a82fa491fd7b1220d79c012" title=" " alt="" coords="451,1207,585,1247"/>
+<area shape="rect" id="node45" href="$d1/d80/namespaceparallel.html#a91c2da8fcbd9f45983bbda27e73d1df9" title=" " alt="" coords="445,1295,591,1321"/>
+<area shape="rect" id="node46" href="$d1/d80/namespaceparallel.html#aa37aafed44d3502f7eeb84a83a311110" title=" " alt="" coords="462,1369,574,1409"/>
+<area shape="rect" id="node47" href="$d1/d80/namespaceparallel.html#ad44655701e3ed8119dbedf4adef5ecf7" title=" " alt="" coords="445,1458,591,1483"/>
+<area shape="rect" id="node48" href="$df/d42/glimmer__ncio_8_f90.html#ac274522450579a35cb21e0e4c26a74bb" title=" " alt="" coords="481,1597,555,1622"/>
+<area shape="rect" id="node49" href="$d0/d70/namespaceglimmer__log.html#ac1a7f72ca3f16ce04764793f68cbddea" title="start a new section" alt="" coords="454,1508,582,1548"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="glimmer_coordinates::coordsystem_node_inside" name="glimmer_coordinates::coordsystem_node_inside">
+<area shape="rect" id="node1" title="return true iff node is inside coord system" alt="" coords="228,117,409,157"/>
+<area shape="rect" id="node2" href="$db/d35/namespaceglimmer__coordinates.html#ad895cc595d74188cf76bb2d26d095ec3" title="get coordinates of node" alt="" coords="8,29,177,69"/>
+<area shape="rect" id="node3" href="$db/d35/namespaceglimmer__coordinates.html#ad1a36fb45ccec367017911906bb176aa" title="get index of nearest node given coords of a point" alt="" coords="10,117,175,157"/>
+<area shape="rect" id="node4" href="$db/d35/namespaceglimmer__coordinates.html#a5e8f5ae525bb993498ac1285577ef8c6" title="linearise node, given coord" alt="" coords="5,205,180,245"/>
+</map>

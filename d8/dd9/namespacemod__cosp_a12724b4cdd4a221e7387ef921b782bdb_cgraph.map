@@ -1,0 +1,18 @@
+<map id="mod_cosp::cosp_init" name="mod_cosp::cosp_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,269,148,294"/>
+<area shape="rect" id="node2" href="$d4/dc1/namespacemod__cosp__atlid__interface.html#a3aa8b123a383f0bfa9b184672b2c76e0" title=" " alt="" coords="212,5,383,45"/>
+<area shape="rect" id="node3" href="$df/d4b/namespacemod__cosp__calipso__interface.html#afd0c1fe020689fe863b40d5c45c8436b" title=" " alt="" coords="204,69,391,109"/>
+<area shape="rect" id="node4" href="$d1/d54/namespacemod__cosp__cloudsat__interface.html#ac27f6f43cdd3224d0e5481ba20dbfec8" title=" " alt="" coords="200,133,395,173"/>
+<area shape="rect" id="node5" href="$d3/d60/namespacemod__cosp__grlidar532__interface.html#a1cf49f6305b61528876908d55605a873" title=" " alt="" coords="196,197,399,237"/>
+<area shape="rect" id="node6" href="$dc/d12/namespacemod__cosp__isccp__interface.html#a8722ba03288490299af63300c45f35f2" title=" " alt="" coords="209,261,386,301"/>
+<area shape="rect" id="node7" href="$d0/d79/namespacemod__cosp__misr__interface.html#a71432c4b64e3ef03c8daa95c8f9d65e7" title=" " alt="" coords="212,325,383,365"/>
+<area shape="rect" id="node8" href="$d1/d8a/namespacemod__cosp__modis__interface.html#a403fe12cffe5cff0a1ae5ef125552034" title=" " alt="" coords="207,389,388,429"/>
+<area shape="rect" id="node13" href="$dc/d59/namespacemod__cosp__parasol__interface.html#a99b80f0b9ef3c0c4f8a73d3b239e2979" title=" " alt="" coords="203,453,391,493"/>
+<area shape="rect" id="node14" href="$d4/dd0/namespacemod__cosp__rttov__interface.html#af68165e09a3d1dd236840ca61f630624" title=" " alt="" coords="211,517,383,557"/>
+<area shape="rect" id="node9" href="$d5/d43/namespacemod__modis__sim.html#a9c209041b12b9fca42955c74655049ed" title=" " alt="" coords="464,321,607,361"/>
+<area shape="rect" id="node12" href="$d5/d43/namespacemod__modis__sim.html#a3357b97074bac8e6143b533cd5a35b10" title=" " alt="" coords="464,409,607,449"/>
+<area shape="rect" id="node10" href="$d5/d43/namespacemod__modis__sim.html#a89ef2c4dfc3982d996e5651c924345ed" title=" " alt="" coords="672,409,808,449"/>
+<area shape="rect" id="node11" href="$d5/d43/namespacemod__modis__sim.html#a653196becce2dd220ae0fb70c05a12b7" title=" " alt="" coords="672,321,808,361"/>
+<area shape="rect" id="node15" href="$d7/d4d/namespacemod__cosp__rttov.html#a47f4a9df6709f3bae4833279a00335ce" title=" " alt="" coords="447,517,624,557"/>
+<area shape="rect" id="node16" href="$dd/dba/verif_bu_8m.html#af95ca3b8baeab4f8d2da1bd43493f8f8" title=" " alt="" coords="716,525,764,550"/>
+</map>

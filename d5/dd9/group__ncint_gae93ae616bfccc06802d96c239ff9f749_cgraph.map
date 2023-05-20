@@ -1,0 +1,4 @@
+<map id="ncint_mod::nf_def_iosystem" name="ncint_mod::nf_def_iosystem">
+<area shape="rect" id="node1" title="Initialize the pio subsystem. This is a collective call. Input parameters are read on comp_rank=0 val..." alt="" coords="5,5,192,31"/>
+<area shape="rect" id="node2" href="$dc/da8/ncint__pio_8c.html#a4685a0a9e74456d2d35d9455e6c9a25f" title=" " alt="" coords="240,5,361,31"/>
+</map>

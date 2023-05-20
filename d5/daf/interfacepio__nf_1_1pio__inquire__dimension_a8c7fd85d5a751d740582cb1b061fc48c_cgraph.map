@@ -1,0 +1,5 @@
+<map id="pio_nf::pio_inquire_dimension::inquire_dimension_id" name="pio_nf::pio_inquire_dimension::inquire_dimension_id">
+<area shape="rect" id="node1" title="Get information about a particular dimension in netcdf file." alt="" coords="5,27,140,82"/>
+<area shape="rect" id="node2" href="$dc/d8c/group___p_i_o__inquire__dimension.html#ga9de8a61d0a0ec84c4e2b22d6f1407e96" title="Get information about the length of a particular dimension in netcdf file." alt="" coords="204,5,331,45"/>
+<area shape="rect" id="node3" href="$dc/d8c/group___p_i_o__inquire__dimension.html#gaaa1bffec058f66099981fb42139d2c79" title="Get information about the name of of a dimension." alt="" coords="188,70,347,95"/>
+</map>

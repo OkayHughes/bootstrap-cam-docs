@@ -1,0 +1,10 @@
+<map id="atmos_ocean_fluxes_mod::atmos_ocean_type_fluxes_init" name="atmos_ocean_fluxes_mod::atmos_ocean_type_fluxes_init">
+<area shape="rect" id="node1" title="Initialize the coupler type flux tracers." alt="" coords="5,190,177,245"/>
+<area shape="rect" id="node2" href="$df/dbe/namespacefield__manager__mod.html#a5aec64d0b5503d357d0b4b5c4f73725b" title=" " alt="" coords="225,5,368,45"/>
+<area shape="rect" id="node3" href="$df/dbe/namespacefield__manager__mod.html#ac0d3d65396eeb3a23b9c2e474fd360d4" title=" " alt="" coords="225,69,368,109"/>
+<area shape="rect" id="node4" href="$df/dbe/namespacefield__manager__mod.html#a5c0b44a2bdd81906dbe5064fff4d9630" title=" " alt="" coords="225,133,368,173"/>
+<area shape="rect" id="node5" href="$db/dcd/namespacefm__util__mod.html#aa03bd36be3b6cfb2fe730933cee95764" title=" " alt="" coords="227,197,367,237"/>
+<area shape="rect" id="node6" href="$db/dcd/namespacefm__util__mod.html#a1709f818711489c11b64c0968a6fa39c" title=" " alt="" coords="227,261,367,301"/>
+<area shape="rect" id="node7" href="$db/dcd/namespacefm__util__mod.html#a858e1c3e7eeb429b909ec6567daa45d3" title=" " alt="" coords="227,325,367,365"/>
+<area shape="rect" id="node8" href="$db/dcd/namespacefm__util__mod.html#a42932e10d1c137c6ef6a32e28019008d" title=" " alt="" coords="227,389,367,429"/>
+</map>

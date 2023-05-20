@@ -1,0 +1,7 @@
+<map id="pio_inquire_dimension" name="pio_inquire_dimension">
+<area shape="rect" id="node1" title="Get information about a particular dimension in netcdf file." alt="" coords="5,31,156,56"/>
+<area shape="rect" id="node2" href="$df/dab/group___p_i_o__inq__dimlen.html#gabcd1f0f2610c1c901a9222162a312d76" title="Returns the extent of a netCDF dimension." alt="" coords="211,5,319,31"/>
+<area shape="rect" id="node5" href="$dd/d7b/group___p_i_o__inq__dimname.html#ga7048c94b7e490f951c6d6e8f47cb895a" title="Gets the name of a dimension given its ID." alt="" coords="204,55,327,80"/>
+<area shape="rect" id="node3" href="$d4/df4/namespacepio__utils.html#ac9886c59b41b4403f1d85042bccf1039" title=" " alt="" coords="382,5,523,31"/>
+<area shape="rect" id="node4" href="$d4/df4/namespacepio__utils.html#ab3559e709e1c555e83c68b0f81e18685" title=" " alt="" coords="375,55,531,80"/>
+</map>

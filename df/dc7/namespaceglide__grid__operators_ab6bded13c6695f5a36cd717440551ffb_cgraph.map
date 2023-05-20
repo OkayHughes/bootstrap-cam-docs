@@ -1,0 +1,5 @@
+<map id="glide_grid_operators::df_field_2d_staggered" name="glide_grid_operators::df_field_2d_staggered">
+<area shape="rect" id="node1" title="Computes derivative fields of the given function. Places the result on a staggered grid...." alt="" coords="5,73,163,113"/>
+<area shape="rect" id="node2" href="$df/dc7/namespaceglide__grid__operators.html#a7e9fb28815eae8ae3ec9ac2aa426e264" title="Computes derivative with respect to x at the equivalent point on a staggered grid." alt="" coords="211,29,349,69"/>
+<area shape="rect" id="node3" href="$df/dc7/namespaceglide__grid__operators.html#aa08c77f2f998bedab9e5feb90e888aae" title="Computes derivative with respect to y at the equivalent point on a staggered grid." alt="" coords="211,117,349,157"/>
+</map>

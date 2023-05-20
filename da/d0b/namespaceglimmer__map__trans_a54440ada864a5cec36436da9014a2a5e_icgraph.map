@@ -1,0 +1,4 @@
+<map id="glimmer_map_trans::loncorrect" name="glimmer_map_trans::loncorrect">
+<area shape="rect" id="node1" title="Normalises a value of longitude to the range starting at min degrees." alt="" coords="197,29,341,69"/>
+<area shape="rect" id="node2" href="$da/d0b/namespaceglimmer__map__trans.html#aa9bf9d72a217eaee7ff7306bbc901445" title="Convert grid coordinates to lat&#45;lon coordinates." alt="" coords="5,29,149,69"/>
+</map>

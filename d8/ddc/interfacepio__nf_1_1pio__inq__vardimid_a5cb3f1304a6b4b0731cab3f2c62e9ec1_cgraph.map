@@ -1,0 +1,4 @@
+<map id="pio_nf::pio_inq_vardimid::inq_vardimid_id" name="pio_nf::pio_inq_vardimid::inq_vardimid_id">
+<area shape="rect" id="node1" title="Returns the dimids of the variable as an interger array." alt="" coords="5,5,168,45"/>
+<area shape="rect" id="node2" href="$d0/d11/group___p_i_o__inquire__variable.html#ga6b9399049bfe13d2585ad69b628d3284" title="Gets the number of dimension associated with a netcdf variable." alt="" coords="216,13,375,38"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="glimmer_log::logname" name="glimmer_log::logname">
+<area shape="rect" id="node1" title="derives name of log file from file name by stripping directories and appending .log" alt="" coords="5,29,155,55"/>
+</map>

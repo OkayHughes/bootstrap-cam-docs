@@ -1,0 +1,11 @@
+<map id="glimmer_config::getvaluechar" name="glimmer_config::getvaluechar">
+<area shape="rect" id="node1" title="get character value" alt="" coords="220,237,412,262"/>
+<area shape="rect" id="node2" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#afb1047e169fb5ee01c271714d787e0b3" title="get character array value" alt="" coords="5,5,172,45"/>
+<area shape="rect" id="node3" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#aadd5bfb0ed02ac5bcad369a640e690fb" title="get double value" alt="" coords="5,69,172,109"/>
+<area shape="rect" id="node4" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#ac470758f6e4cee0930626bc8c0258f20" title="get double array value" alt="" coords="5,133,172,173"/>
+<area shape="rect" id="node5" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#adf4f4de425949db731bd4dfaf41e7f4e" title="get integer value" alt="" coords="5,197,172,237"/>
+<area shape="rect" id="node6" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#a78651fa0a94b71e076905f5f2d6ee59b" title="get integer value array" alt="" coords="5,261,172,301"/>
+<area shape="rect" id="node7" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#a04d0a7259c27f849d85e6159de81b6f1" title="get logical value" alt="" coords="5,325,172,365"/>
+<area shape="rect" id="node8" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#acdf163e5d3809d9f6808c688c6e4e1b1" title="get real value" alt="" coords="5,389,172,429"/>
+<area shape="rect" id="node9" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#a0c8fa7d054f2310a63652454611e4b5b" title="get real array value" alt="" coords="5,453,172,493"/>
+</map>

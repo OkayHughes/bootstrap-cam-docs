@@ -1,0 +1,21 @@
+<map id="atmos_ocean_fluxes_mod::atmos_ocean_fluxes_init" name="atmos_ocean_fluxes_mod::atmos_ocean_fluxes_init">
+<area shape="rect" id="node1" title="Initialize gas flux structures." alt="" coords="5,421,212,461"/>
+<area shape="rect" id="node2" href="$db/d45/namespaceatmos__ocean__fluxes__mod.html#a1be62040e5fb14991285cc66a4105717" title="Initialize the coupler type flux tracers." alt="" coords="260,190,432,245"/>
+<area shape="rect" id="node3" href="$df/dbe/namespacefield__manager__mod.html#a5aec64d0b5503d357d0b4b5c4f73725b" title=" " alt="" coords="480,5,623,45"/>
+<area shape="rect" id="node4" href="$df/dbe/namespacefield__manager__mod.html#ac0d3d65396eeb3a23b9c2e474fd360d4" title=" " alt="" coords="480,69,623,109"/>
+<area shape="rect" id="node6" href="$db/dcd/namespacefm__util__mod.html#aa03bd36be3b6cfb2fe730933cee95764" title=" " alt="" coords="481,133,621,173"/>
+<area shape="rect" id="node7" href="$db/dcd/namespacefm__util__mod.html#a1709f818711489c11b64c0968a6fa39c" title=" " alt="" coords="481,261,621,301"/>
+<area shape="rect" id="node8" href="$db/dcd/namespacefm__util__mod.html#a858e1c3e7eeb429b909ec6567daa45d3" title=" " alt="" coords="481,325,621,365"/>
+<area shape="rect" id="node9" href="$db/dcd/namespacefm__util__mod.html#a42932e10d1c137c6ef6a32e28019008d" title=" " alt="" coords="481,389,621,429"/>
+<area shape="rect" id="node10" href="$df/dbe/namespacefield__manager__mod.html#a50f81335bc907104b00283f09cf8effa" title=" " alt="" coords="275,421,417,461"/>
+<area shape="rect" id="node11" href="$db/dcd/namespacefm__util__mod.html#abc9712ad3f8cd936c9031ad1dc57f4ca" title=" " alt="" coords="276,741,416,781"/>
+<area shape="rect" id="node14" href="$db/dcd/namespacefm__util__mod.html#a5b1a762ac51669129380bf3981ee1ff0" title=" " alt="" coords="276,485,416,525"/>
+<area shape="rect" id="node15" href="$db/dcd/namespacefm__util__mod.html#a82527e5fd52eba49a1d80b8e5c1afad0" title=" " alt="" coords="276,805,416,845"/>
+<area shape="rect" id="node16" href="$db/dcd/namespacefm__util__mod.html#a4af1e1ae32ae52ef999a79321d4f7a45" title=" " alt="" coords="276,869,416,909"/>
+<area shape="rect" id="node17" href="$db/dcd/namespacefm__util__mod.html#ae4ff332847f8a202066924cc3a3b32da" title=" " alt="" coords="276,549,416,589"/>
+<area shape="rect" id="node18" href="$db/dcd/namespacefm__util__mod.html#aee936a4c57b94e873342fc96d1fb1b42" title=" " alt="" coords="276,613,416,653"/>
+<area shape="rect" id="node19" href="$db/dcd/namespacefm__util__mod.html#afebcfb3aa713435630a9dd1b80d355b9" title=" " alt="" coords="276,677,416,717"/>
+<area shape="rect" id="node5" href="$df/dbe/namespacefield__manager__mod.html#a5c0b44a2bdd81906dbe5064fff4d9630" title=" " alt="" coords="480,197,623,237"/>
+<area shape="rect" id="node12" href="$df/dbe/namespacefield__manager__mod.html#a361063ec04fbdd799ee6b1b189897d14" title=" " alt="" coords="480,677,623,717"/>
+<area shape="rect" id="node13" href="$df/dbe/namespacefield__manager__mod.html#a3fed10d122bd44ad13d302db0b3fbae7" title=" " alt="" coords="480,741,623,781"/>
+</map>

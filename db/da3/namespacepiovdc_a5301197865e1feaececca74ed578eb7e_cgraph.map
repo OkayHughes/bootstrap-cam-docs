@@ -1,0 +1,4 @@
+<map id="piovdc::auto_get_start_count" name="piovdc::auto_get_start_count">
+<area shape="rect" id="node1" title="subroutine that, given a global grid, VDC blocksize, and max # of nioprocs, will automatically create..." alt="" coords="5,5,156,45"/>
+<area shape="rect" id="node2" href="$db/da3/namespacepiovdc.html#aa2eb763b6e953a8ddaa7e2f8d54d86ef" title="subroutine checks start/count for out of bounds, adjusts if the start/count is too high,..." alt="" coords="204,13,356,38"/>
+</map>

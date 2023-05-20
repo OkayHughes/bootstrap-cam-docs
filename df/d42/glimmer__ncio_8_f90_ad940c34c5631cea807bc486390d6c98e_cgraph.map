@@ -1,0 +1,28 @@
+<map id="openall_out" name="openall_out">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1032,93,1057"/>
+<area shape="rect" id="node2" href="$dd/d39/namespaceglimmer__map__types.html#a91a6858b20b45d60bc4681b786f09129" title="return true if structure contains a known projection" alt="" coords="353,697,500,737"/>
+<area shape="rect" id="node3" href="$de/d40/namespaceglimmer__map__cfproj.html#ac40740bdea41b34ae667608bce0ec6f5" title="Read projection from a given netCDF file, returning an instance of type glimmap_proj." alt="" coords="145,379,284,419"/>
+<area shape="rect" id="node8" href="$d0/d70/namespaceglimmer__log.html#a690118c42311d82e3cd39e2d4a246269" title="write to log" alt="" coords="565,597,717,623"/>
+<area shape="rect" id="node10" href="$d0/d70/namespaceglimmer__log.html#ac1a7f72ca3f16ce04764793f68cbddea" title="start a new section" alt="" coords="968,1146,1096,1186"/>
+<area shape="rect" id="node15" href="$de/d40/namespaceglimmer__map__cfproj.html#a2a89c82cd5b50d811a62a8c95b887807" title="write projection to a netCDF file." alt="" coords="145,615,284,655"/>
+<area shape="rect" id="node16" href="$d1/d80/namespaceparallel.html#a60157af06ff07d7fbafdf223a5354347" title=" " alt="" coords="159,805,271,845"/>
+<area shape="rect" id="node17" href="$d1/d80/namespaceparallel.html#ab7e53e16e3490362623751efa695fe5a" title=" " alt="" coords="159,893,271,933"/>
+<area shape="rect" id="node18" href="$d1/d80/namespaceparallel.html#a81363c70970663076620c25d3e714af9" title=" " alt="" coords="159,981,271,1021"/>
+<area shape="rect" id="node19" href="$d1/d80/namespaceparallel.html#aa1a1a2f3a5b7b216b9eb716deb5c4cde" title=" " alt="" coords="159,1069,271,1109"/>
+<area shape="rect" id="node20" href="$d1/d80/namespaceparallel.html#aaae673fd7e73cc107573628ae9cc898e" title=" " alt="" coords="159,1157,271,1197"/>
+<area shape="rect" id="node21" href="$d1/d80/namespaceparallel.html#a4b4429f47a82fa491fd7b1220d79c012" title=" " alt="" coords="148,1245,281,1285"/>
+<area shape="rect" id="node22" href="$d1/d80/namespaceparallel.html#a91c2da8fcbd9f45983bbda27e73d1df9" title=" " alt="" coords="141,1333,288,1359"/>
+<area shape="rect" id="node23" href="$d1/d80/namespaceparallel.html#aa37aafed44d3502f7eeb84a83a311110" title=" " alt="" coords="159,1407,271,1447"/>
+<area shape="rect" id="node24" href="$d1/d80/namespaceparallel.html#ad44655701e3ed8119dbedf4adef5ecf7" title=" " alt="" coords="141,1496,288,1521"/>
+<area shape="rect" id="node25" href="$db/d4e/namespaceglimmer__filenames.html#a18bb4ac509e0e54039e18e4f558b5ecd" title="append path to working dir" alt="" coords="145,1570,284,1610"/>
+<area shape="rect" id="node26" href="$df/d42/glimmer__ncio_8_f90.html#ac274522450579a35cb21e0e4c26a74bb" title=" " alt="" coords="389,785,464,811"/>
+<area shape="rect" id="node4" href="$dc/d63/namespaceglimmer__map__init.html#a1d03257ec2c389239b2cf00242d7815b" title="initialise Lambert azimuthal equal area projection" alt="" coords="336,315,517,355"/>
+<area shape="rect" id="node5" href="$dc/d63/namespaceglimmer__map__init.html#a3ed8a91682ddfda5061cbf9dc8f98425" title="initialise Lambert azimuthal equal area projection" alt="" coords="336,379,517,419"/>
+<area shape="rect" id="node6" href="$dc/d63/namespaceglimmer__map__init.html#ac275b5f0468737fb586fcd48f706f280" title="initialise Lambert conformal conic projection" alt="" coords="336,443,517,483"/>
+<area shape="rect" id="node7" href="$dc/d63/namespaceglimmer__map__init.html#af7be18f25557157bf06c5ebde0b27e31" title="initialise stereographic projection" alt="" coords="336,507,517,547"/>
+<area shape="rect" id="node12" href="$d1/d80/namespaceparallel.html#a9100887f3ea5e9943aa009317b713fe1" title=" " alt="" coords="371,75,483,115"/>
+<area shape="rect" id="node13" href="$d1/d80/namespaceparallel.html#a357cee99b4deff42c7883778fee171a9" title=" " alt="" coords="371,163,483,203"/>
+<area shape="rect" id="node14" href="$d1/d80/namespaceparallel.html#aca151bcb72038a08d97c7df8052d9751" title=" " alt="" coords="367,251,486,291"/>
+<area shape="rect" id="node9" href="$d0/d70/namespaceglimmer__log.html#a018f62e43c83a828af946ab83bdc553e" title="close log file" alt="" coords="765,887,920,912"/>
+<area shape="rect" id="node11" href="$d1/d80/namespaceparallel.html#ad65d2cda5047342220f8371b3459e8ff" title=" " alt="" coords="771,597,915,623"/>
+</map>

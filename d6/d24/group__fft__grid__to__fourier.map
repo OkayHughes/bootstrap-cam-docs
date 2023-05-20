@@ -1,0 +1,4 @@
+<map id="fft_grid_to_fourier" name="fft_grid_to_fourier">
+<area shape="rect" id="node1" title="Given multiple sequences of real data values, this routine computes the complex Fourier transform for..." alt="" coords="120,5,243,31"/>
+<area shape="rect" id="node2" href="$d9/d59/group__fft__mod.html" title="This module performs simultaneous fast Fourier transforms (FFTs) between real grid space and complex ..." alt="" coords="5,5,72,31"/>
+</map>

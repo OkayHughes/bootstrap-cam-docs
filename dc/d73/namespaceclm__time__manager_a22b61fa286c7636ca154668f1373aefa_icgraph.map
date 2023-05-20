@@ -1,0 +1,38 @@
+<map id="clm_time_manager::get_days_per_year" name="clm_time_manager::get_days_per_year">
+<area shape="rect" id="node1" title=" " alt="" coords="1771,704,1929,744"/>
+<area shape="rect" id="node2" href="$da/d14/namespaceannualfluxdribbler.html#a42a612f5a4d76414610fb8e67c1de58f" title=" " alt="" coords="937,44,1121,84"/>
+<area shape="rect" id="node5" href="$da/d8a/namespacecnc14decaymod.html#a74af4af4e0f15cb6dc40e0f94e71597c" title=" " alt="" coords="1217,865,1399,890"/>
+<area shape="rect" id="node14" href="$d1/d61/namespacech4mod.html#a9a4ea35e0ba1d1738df53712ce59f2df" title=" " alt="" coords="980,909,1077,934"/>
+<area shape="rect" id="node15" href="$d1/dd4/namespacecnannualupdatemod.html#a796fd3b121fc16603163e81bec853bd9" title=" " alt="" coords="955,419,1102,459"/>
+<area shape="rect" id="node16" href="$d5/d52/structcnfireli2016mod_1_1cnfire__li2016__type.html#aa8fa3c539323fadfdb56d799919232a6" title=" " alt="" coords="1523,1016,1683,1056"/>
+<area shape="rect" id="node17" href="$dc/dab/structcnfireli2014mod_1_1cnfire__li2014__type.html#a0b611211c1cf19e0e3f618687cec3ae4" title=" " alt="" coords="1517,1080,1688,1120"/>
+<area shape="rect" id="node18" href="$df/d38/namespacecnndynamicsmod.html#ade585cfebea37300e8367d39250a95dd" title=" " alt="" coords="1483,521,1723,546"/>
+<area shape="rect" id="node19" href="$d8/d93/namespacecnfunmod.html#a1ff5b4d50f76650d133712fc68a90709" title=" " alt="" coords="1543,682,1662,707"/>
+<area shape="rect" id="node21" href="$d8/d93/namespacecnfunmod.html#a0a7872e6213515e9c38fce1ddd50b8e4" title=" " alt="" coords="1535,574,1671,599"/>
+<area shape="rect" id="node22" href="$d0/d73/namespacecngapmortalitymod.html#a645f38fc4c4ce7857af10ed71845d040" title=" " alt="" coords="1238,800,1378,840"/>
+<area shape="rect" id="node23" href="$df/d38/namespacecnndynamicsmod.html#a335d50c513bb6da8f9fe4b59fd2d607b" title=" " alt="" coords="1211,622,1405,647"/>
+<area shape="rect" id="node24" href="$df/d5b/namespacecnphenologymod.html#a46c0b086007b7c1df216e4e7ee816d14" title=" " alt="" coords="1493,470,1712,495"/>
+<area shape="rect" id="node26" href="$df/d8c/namespacesoilbiogeochemdecompcascadebgcmod.html#ac230e31f07d72dfbf5fbaf6e9e2cca20" title=" " alt="" coords="1181,736,1435,776"/>
+<area shape="rect" id="node27" href="$d3/d0f/namespaceclmfatesinterfacemod.html#afc1d80b5dc1fd9b97619d501ed5d69a3" title=" " alt="" coords="1529,1144,1676,1184"/>
+<area shape="rect" id="node28" href="$dc/d73/namespaceclm__time__manager.html#abd0cf1136611a74f3d12298bc2d09d47" title=" " alt="" coords="1523,253,1682,293"/>
+<area shape="rect" id="node34" href="$dc/d9a/namespacendepstreammod.html#ae22b49b10736da029a62d631431a90c3" title=" " alt="" coords="953,959,1104,999"/>
+<area shape="rect" id="node3" href="$d3/d75/structannualfluxdribbler_1_1annual__flux__dribbler__type.html#a1357924e588f2333e0242fddf66a6f73" title=" " alt="" coords="721,69,876,139"/>
+<area shape="rect" id="node4" href="$d1/d51/structcnvegstatetype_1_1cnveg__state__type.html#a5d2f04de51ca6a4ff1754fcece007925" title=" " alt="" coords="721,5,876,45"/>
+<area shape="rect" id="node6" href="$d7/d12/namespacecndrivermod.html#aa25735ccf989bf45d8d04347611953b2" title=" " alt="" coords="924,650,1133,675"/>
+<area shape="rect" id="node8" href="$de/d4b/namespaceedbgcdynmod.html#af9811c90df9a4082b3279beb267aa717" title=" " alt="" coords="945,775,1112,801"/>
+<area shape="rect" id="node7" href="$d3/d09/structcnvegetationfacade_1_1cn__vegetation__type.html#ad6991e86ce03ea079ceefaddbc0944a0" title=" " alt="" coords="727,441,870,495"/>
+<area shape="rect" id="node9" href="$d7/de7/namespaceclm__driver.html#a37418be8f5fbe69ba6a6f7d99096344f" title=" " alt="" coords="731,909,867,934"/>
+<area shape="rect" id="node10" href="$d6/d6a/namespacelnd__comp__esmf.html#aacac3b37fe1f7b7be5a4859fa4a85410" title=" " alt="" coords="509,911,673,937"/>
+<area shape="rect" id="node11" href="$d6/d6a/namespacelnd__comp__esmf.html#a8ee0ebe29a0681c4af5767c897ba8d0c" title=" " alt="" coords="323,931,461,971"/>
+<area shape="rect" id="node12" href="$df/d1a/namespacelilac__mod.html#a89c45e00563030cd8603cd2644e05078" title=" " alt="" coords="136,938,275,963"/>
+<area shape="rect" id="node13" href="$d6/d9c/atm__driver_8_f90.html#ae89e69cc645305c17e12f10ffe0508b0" title=" " alt="" coords="5,938,88,963"/>
+<area shape="rect" id="node20" href="$dc/db9/namespacesoilbiogeochemcompetitionmod.html#ac48bb364682193cbfabff945f9c8c4dd" title=" " alt="" coords="1206,672,1410,712"/>
+<area shape="rect" id="node25" href="$d7/d12/namespacecndrivermod.html#a3315aa2a100a652789dda542df05b0e6" title=" " alt="" coords="947,483,1111,509"/>
+<area shape="rect" id="node29" href="$d0/db0/namespacecisoatmtimeseriesmod.html#a6c5b25d97fc7a087d2d7063163b82ff0" title=" " alt="" coords="1231,189,1385,229"/>
+<area shape="rect" id="node30" href="$d0/db0/namespacecisoatmtimeseriesmod.html#a2dda35ff3a7b069919046f5a222b4dad" title=" " alt="" coords="1231,253,1385,293"/>
+<area shape="rect" id="node31" href="$d8/d5a/structdyntimeinfomod_1_1time__info__type.html#a1e86ee5cd4a350f00b2532942ed71b38" title=" " alt="" coords="951,204,1106,244"/>
+<area shape="rect" id="node32" href="$d0/d6a/namespacedyncndvmod.html#a17d8b8b15c672811f27d3c10e69a7ff3" title=" " alt="" coords="952,355,1105,395"/>
+<area shape="rect" id="node33" href="$dc/d73/namespaceclm__time__manager.html#afdaadd54888cb84d1541b2e4f89a8dbd" title=" " alt="" coords="1229,125,1387,165"/>
+<area shape="rect" id="node35" href="$dd/dbc/namespaceclm__initializemod.html#ab8c9be812646b197347d2e7f13afc22a" title=" " alt="" coords="733,959,864,999"/>
+<area shape="rect" id="node36" href="$d6/d6a/namespacelnd__comp__esmf.html#a4faceef3852ba872d1309bf14019683c" title=" " alt="" coords="510,962,673,987"/>
+</map>

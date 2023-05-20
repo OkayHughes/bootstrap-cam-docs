@@ -1,0 +1,5 @@
+<map id="astronomy_mod::diurnal_solar::diurnal_solar_cal_2d" name="astronomy_mod::diurnal_solar::diurnal_solar_cal_2d">
+<area shape="rect" id="node1" title="diurnal_solar_cal_2d receives time_type inputs, converts them to real variables and then calls diurna..." alt="" coords="5,16,167,71"/>
+<area shape="rect" id="node2" href="$da/de0/namespaceastronomy__mod.html#a7fb404a6aa92465cf74a3fd4a5c48d37" title="Orbital time returns the time (1 year = 2*pi) since autumnal equinox." alt="" coords="223,5,413,31"/>
+<area shape="rect" id="node3" href="$da/de0/namespaceastronomy__mod.html#aa2cc4e0964e5251d056c4f05c4a8ddf7" title="universal_time returns the time of day at longitude = 0.0 (1 day = 2*pi)" alt="" coords="215,55,421,80"/>
+</map>

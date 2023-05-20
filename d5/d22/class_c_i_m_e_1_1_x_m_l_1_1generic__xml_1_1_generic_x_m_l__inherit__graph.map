@@ -1,0 +1,36 @@
+<map id="CIME.XML.generic_xml.GenericXML" name="CIME.XML.generic_xml.GenericXML">
+<area shape="rect" id="node1" title=" " alt="" coords="111,475,348,500"/>
+<area shape="rect" id="node3" href="$de/dbc/class_c_i_m_e_1_1_x_m_l_1_1archive__base_1_1_archive_base.html" title=" " alt="" coords="396,56,643,81"/>
+<area shape="rect" id="node6" href="$dc/da0/class_c_i_m_e_1_1_x_m_l_1_1batch_1_1_batch.html" title=" " alt="" coords="439,113,600,139"/>
+<area shape="rect" id="node7" href="$d8/d3e/class_c_i_m_e_1_1_x_m_l_1_1compilers_1_1_compilers.html" title=" " alt="" coords="414,163,625,188"/>
+<area shape="rect" id="node8" href="$de/d13/class_c_i_m_e_1_1_x_m_l_1_1compsets_1_1_compsets.html" title=" " alt="" coords="413,212,625,237"/>
+<area shape="rect" id="node9" href="$da/d97/class_c_i_m_e_1_1_x_m_l_1_1entry__id_1_1_entry_i_d.html" title=" " alt="" coords="426,261,613,287"/>
+<area shape="rect" id="node23" href="$de/d9a/class_c_i_m_e_1_1_x_m_l_1_1expected__fails__file_1_1_expected_fails_file.html" title=" " alt="" coords="432,311,607,351"/>
+<area shape="rect" id="node24" href="$d6/d61/class_c_i_m_e_1_1_x_m_l_1_1grids_1_1_grids.html" title=" " alt="" coords="442,376,597,401"/>
+<area shape="rect" id="node25" href="$d3/de4/class_c_i_m_e_1_1_x_m_l_1_1headers_1_1_headers.html" title=" " alt="" coords="424,425,615,451"/>
+<area shape="rect" id="node26" href="$dd/dce/class_c_i_m_e_1_1_x_m_l_1_1inputdata_1_1_inputdata.html" title=" " alt="" coords="418,475,621,500"/>
+<area shape="rect" id="node27" href="$d8/d1b/class_c_i_m_e_1_1_x_m_l_1_1machines_1_1_machines.html" title=" " alt="" coords="416,524,623,549"/>
+<area shape="rect" id="node28" href="$d5/d1d/class_c_i_m_e_1_1_x_m_l_1_1pes_1_1_pes.html" title=" " alt="" coords="450,573,589,599"/>
+<area shape="rect" id="node29" href="$dc/de7/class_c_i_m_e_1_1_x_m_l_1_1stream_1_1_stream.html" title=" " alt="" coords="431,623,608,648"/>
+<area shape="rect" id="node30" href="$d3/d1e/class_c_i_m_e_1_1_x_m_l_1_1test__reporter_1_1_test_reporter.html" title=" " alt="" coords="423,673,615,713"/>
+<area shape="rect" id="node31" href="$d9/d1b/class_c_i_m_e_1_1_x_m_l_1_1testlist_1_1_testlist.html" title=" " alt="" coords="431,737,607,763"/>
+<area shape="rect" id="node32" href="$de/d6e/class_c_i_m_e_1_1_x_m_l_1_1tests_1_1_tests.html" title=" " alt="" coords="441,787,597,812"/>
+<area shape="rect" id="node33" href="$d8/d8a/class_c_i_m_e_1_1_x_m_l_1_1testspec_1_1_test_spec.html" title=" " alt="" coords="419,836,619,861"/>
+<area shape="rect" id="node34" href="$d6/d5d/class_c_i_m_e_1_1_x_m_l_1_1workflow_1_1_workflow.html" title=" " alt="" coords="420,885,619,911"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,475,63,500"/>
+<area shape="rect" id="node4" href="$dd/dfc/class_c_i_m_e_1_1_x_m_l_1_1archive_1_1_archive.html" title=" " alt="" coords="713,5,895,31"/>
+<area shape="rect" id="node5" href="$db/dca/class_c_i_m_e_1_1_x_m_l_1_1env__archive_1_1_env_archive.html" title=" " alt="" coords="977,21,1165,61"/>
+<area shape="rect" id="node10" href="$dd/d8d/class_c_i_m_e_1_1_x_m_l_1_1component_1_1_component.html" title=" " alt="" coords="691,188,917,213"/>
+<area shape="rect" id="node11" href="$d6/d47/class_c_i_m_e_1_1_x_m_l_1_1env__base_1_1_env_base.html" title=" " alt="" coords="702,237,906,263"/>
+<area shape="rect" id="node20" href="$d8/d90/class_c_i_m_e_1_1_x_m_l_1_1files_1_1_files.html" title=" " alt="" coords="731,287,877,312"/>
+<area shape="rect" id="node21" href="$d9/dcd/class_c_i_m_e_1_1_x_m_l_1_1namelist__definition_1_1_namelist_definition.html" title=" " alt="" coords="703,337,905,377"/>
+<area shape="rect" id="node22" href="$d5/d55/class_c_i_m_e_1_1_x_m_l_1_1pio_1_1_p_i_o.html" title=" " alt="" coords="737,401,871,427"/>
+<area shape="rect" id="node12" href="$d1/d52/class_c_i_m_e_1_1_x_m_l_1_1env__batch_1_1_env_batch.html" title=" " alt="" coords="965,85,1177,111"/>
+<area shape="rect" id="node13" href="$d8/d7e/class_c_i_m_e_1_1_x_m_l_1_1env__build_1_1_env_build.html" title=" " alt="" coords="970,135,1173,160"/>
+<area shape="rect" id="node14" href="$db/dd8/class_c_i_m_e_1_1_x_m_l_1_1env__case_1_1_env_case.html" title=" " alt="" coords="969,184,1174,209"/>
+<area shape="rect" id="node15" href="$d8/d88/class_c_i_m_e_1_1_x_m_l_1_1env__mach__pes_1_1_env_mach_pes.html" title=" " alt="" coords="968,234,1175,274"/>
+<area shape="rect" id="node16" href="$df/dcb/class_c_i_m_e_1_1_x_m_l_1_1env__mach__specific_1_1_env_mach_specific.html" title=" " alt="" coords="968,298,1175,338"/>
+<area shape="rect" id="node17" href="$d6/dfa/class_c_i_m_e_1_1_x_m_l_1_1env__run_1_1_env_run.html" title=" " alt="" coords="977,363,1165,388"/>
+<area shape="rect" id="node18" href="$d3/dc8/class_c_i_m_e_1_1_x_m_l_1_1env__test_1_1_env_test.html" title=" " alt="" coords="975,412,1168,437"/>
+<area shape="rect" id="node19" href="$d9/d06/class_c_i_m_e_1_1_x_m_l_1_1env__workflow_1_1_env_workflow.html" title=" " alt="" coords="973,462,1169,502"/>
+</map>

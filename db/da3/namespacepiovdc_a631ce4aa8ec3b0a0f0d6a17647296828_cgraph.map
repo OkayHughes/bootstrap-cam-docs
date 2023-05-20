@@ -1,0 +1,5 @@
+<map id="piovdc::init_vdc2" name="piovdc::init_vdc2">
+<area shape="rect" id="node1" title="subroutine that prepares the global grid to be split by the auto_start_count routine" alt="" coords="5,13,125,38"/>
+<area shape="rect" id="node2" href="$db/da3/namespacepiovdc.html#a5301197865e1feaececca74ed578eb7e" title="subroutine that, given a global grid, VDC blocksize, and max # of nioprocs, will automatically create..." alt="" coords="173,5,324,45"/>
+<area shape="rect" id="node3" href="$db/da3/namespacepiovdc.html#aa2eb763b6e953a8ddaa7e2f8d54d86ef" title="subroutine checks start/count for out of bounds, adjusts if the start/count is too high,..." alt="" coords="372,13,524,38"/>
+</map>

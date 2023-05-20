@@ -1,0 +1,8 @@
+<map id="glimmer_map_types::glimmap_diag" name="glimmer_map_types::glimmap_diag">
+<area shape="rect" id="node1" title="This is incomplete diagnostics code to output full content of projection type. Only does Stereographi..." alt="" coords="5,35,152,75"/>
+<area shape="rect" id="node2" href="$dd/d39/namespaceglimmer__map__types.html#a77516b23595b76123a18aecdb6f850eb" title="print out parameters of Stereographic projection" alt="" coords="200,5,347,45"/>
+<area shape="rect" id="node3" href="$d0/d70/namespaceglimmer__log.html#a690118c42311d82e3cd39e2d4a246269" title="write to log" alt="" coords="395,42,547,67"/>
+<area shape="rect" id="node4" href="$d0/d70/namespaceglimmer__log.html#a018f62e43c83a828af946ab83bdc553e" title="close log file" alt="" coords="595,17,749,42"/>
+<area shape="rect" id="node6" href="$d1/d80/namespaceparallel.html#ad65d2cda5047342220f8371b3459e8ff" title=" " alt="" coords="600,66,744,91"/>
+<area shape="rect" id="node5" href="$d0/d70/namespaceglimmer__log.html#ac1a7f72ca3f16ce04764793f68cbddea" title="start a new section" alt="" coords="797,9,925,49"/>
+</map>

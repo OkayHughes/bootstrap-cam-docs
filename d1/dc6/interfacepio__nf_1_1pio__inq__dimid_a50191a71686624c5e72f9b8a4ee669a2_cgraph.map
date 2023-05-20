@@ -1,0 +1,4 @@
+<map id="pio_nf::pio_inq_dimid::inq_dimid_desc" name="pio_nf::pio_inq_dimid::inq_dimid_desc">
+<area shape="rect" id="node1" title="Returns the netcdf dimension id for the name." alt="" coords="5,5,149,45"/>
+<area shape="rect" id="node2" href="$dc/d8c/group___p_i_o__inquire__dimension.html#ga3ada08e9d7d83e558c9effbe7df21c7e" title="Returns the netcdf dimension id for the name." alt="" coords="197,13,335,38"/>
+</map>

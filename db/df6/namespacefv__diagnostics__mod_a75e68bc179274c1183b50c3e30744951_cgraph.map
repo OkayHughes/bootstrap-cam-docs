@@ -1,0 +1,5 @@
+<map id="fv_diagnostics_mod::prt_mass" name="fv_diagnostics_mod::prt_mass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,29,144,69"/>
+<area shape="rect" id="node2" href="$dc/dcd/namespacefv__grid__utils__mod.html#acf53e76b1bc9e689efe4900919cd05ef" title="The function &#39;g_sum&#39; is the fast version of &#39;globalsum&#39;." alt="" coords="379,29,511,69"/>
+<area shape="rect" id="node3" href="$db/df6/namespacefv__diagnostics__mod.html#a241554c0b6e2a59d63b56afdc01e9fd6" title=" " alt="" coords="192,57,331,97"/>
+</map>

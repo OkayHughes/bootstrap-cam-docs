@@ -1,0 +1,10 @@
+<map id="shr_scam_mod::shr_scam_getcloselatlon::shr_scam_getcloselatlonpio" name="shr_scam_mod::shr_scam_getcloselatlon::shr_scam_getcloselatlonpio">
+<area shape="rect" id="node1" title=" " alt="" coords="5,41,181,96"/>
+<area shape="rect" id="node2" href="$d0/d12/group___p_i_o__inquire.html#ga925ff10f87a5d490f69329802cd18adb" title="Gets metadata information for netcdf file." alt="" coords="447,5,531,31"/>
+<area shape="rect" id="node5" href="$dc/d8c/group___p_i_o__inquire__dimension.html#gaf5b707c61ed690edf2dae086d2950ad3" title="Get information about a particular dimension in netcdf file." alt="" coords="229,56,380,81"/>
+<area shape="rect" id="node8" href="$df/de1/namespaceshr__ncread__mod.html#ac838ae1594fc6da2f198fac203d2a709" title=" " alt="" coords="233,106,377,146"/>
+<area shape="rect" id="node3" href="$d4/df4/namespacepio__utils.html#ac9886c59b41b4403f1d85042bccf1039" title=" " alt="" coords="606,31,747,56"/>
+<area shape="rect" id="node4" href="$d4/df4/namespacepio__utils.html#ab3559e709e1c555e83c68b0f81e18685" title=" " alt="" coords="599,80,755,105"/>
+<area shape="rect" id="node6" href="$df/dab/group___p_i_o__inq__dimlen.html#gabcd1f0f2610c1c901a9222162a312d76" title="Returns the extent of a netCDF dimension." alt="" coords="435,104,543,129"/>
+<area shape="rect" id="node7" href="$dd/d7b/group___p_i_o__inq__dimname.html#ga7048c94b7e490f951c6d6e8f47cb895a" title="Gets the name of a dimension given its ID." alt="" coords="428,55,551,80"/>
+</map>

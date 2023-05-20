@@ -1,0 +1,3 @@
+<map id="glide_grid_operators::dfdx_2d_upwind" name="glide_grid_operators::dfdx_2d_upwind">
+<area shape="rect" id="node1" title="Computes derivative with respect to x at the given point using an upwind method (suitable for maximum..." alt="" coords="5,29,144,69"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pio_nf::inq_dimlen_id_long" name="pio_nf::inq_dimlen_id_long">
+<area shape="rect" id="node1" title="Get information about the length of a particular dimension in netcdf file." alt="" coords="212,69,339,109"/>
+<area shape="rect" id="node2" href="$d0/d3f/interfacepio__nf_1_1pio__inq__dimlen.html#a47cb253f00df3ff2bb40826cae457baf" title="Get information about the length of a particular dimension in netcdf file." alt="" coords="5,5,164,45"/>
+<area shape="rect" id="node3" href="$d0/d3f/interfacepio__nf_1_1pio__inq__dimlen.html#a598216bd129ddf92a78aa96816dbaf50" title="Get information about the length of a particular dimension in netcdf file." alt="" coords="9,69,160,109"/>
+<area shape="rect" id="node4" href="$d5/daf/interfacepio__nf_1_1pio__inquire__dimension.html#a8c7fd85d5a751d740582cb1b061fc48c" title="Get information about a particular dimension in netcdf file." alt="" coords="17,134,152,189"/>
+</map>

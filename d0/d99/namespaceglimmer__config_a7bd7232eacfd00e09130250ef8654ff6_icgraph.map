@@ -1,0 +1,34 @@
+<map id="glimmer_config::getsection" name="glimmer_config::getsection">
+<area shape="rect" id="node1" title="find a return section" alt="" coords="1101,370,1280,395"/>
+<area shape="rect" id="node2" href="$d7/d3c/glimmer__ncparams_8_f90.html#ae7eb9177961be46716f3413f4937a168" title=" " alt="" coords="889,5,1036,45"/>
+<area shape="rect" id="node3" href="$d4/de5/namespaceeismint__forcing.html#a077cf3d539ac92272943a6909129fb49" title=" " alt="" coords="883,184,1043,224"/>
+<area shape="rect" id="node6" href="$d4/d3f/namespacegcm__cism__interface.html#a195507ef83cbca1225a59356c374ce2d" title=" " alt="" coords="234,127,373,167"/>
+<area shape="rect" id="node8" href="$d7/d57/namespaceglad__main.html#a9b90773429ae70b24be22b29a0d41c71" title=" " alt="" coords="892,657,1033,682"/>
+<area shape="rect" id="node10" href="$db/d40/glad__type_8_f90.html#aff7f8fa98f14db1dff82ff7b96779034" title=" " alt="" coords="665,265,805,290"/>
+<area shape="rect" id="node14" href="$d0/d52/namespaceglint__example__clim.html#aedd4a55f83e75b8f280004ca369559b6" title=" " alt="" coords="887,69,1039,109"/>
+<area shape="rect" id="node17" href="$d1/d6c/namespaceglide__setup.html#aeb088a19092c6fac16ac996e3265408f" title=" " alt="" coords="901,363,1024,403"/>
+<area shape="rect" id="node22" href="$d1/d6c/namespaceglide__setup.html#adf2dd8b222683ab75b51437541d1a4ff" title=" " alt="" coords="901,427,1024,467"/>
+<area shape="rect" id="node23" href="$dc/d63/namespaceglimmer__map__init.html#a94350313a9b6015083fbb4839f93d66d" title="read projection configuration from file" alt="" coords="872,299,1053,339"/>
+<area shape="rect" id="node24" href="$da/d3e/namespaceglint__daily__pdd.html#ad808f65a1db7cfcedb6bf1974bc78313" title=" " alt="" coords="893,541,1033,581"/>
+<area shape="rect" id="node27" href="$de/ddf/glint__type_8_f90.html#a377ffaac42b26f057b56138d0183ac1e" title=" " alt="" coords="462,606,570,631"/>
+<area shape="rect" id="node28" href="$dd/d14/namespaceglint__pdd.html#a40c237266681847fe5236de63356d878" title=" " alt="" coords="878,706,1047,731"/>
+<area shape="rect" id="node32" href="$d0/d69/namespaceverif.html#af472491a275e76cf983b8433a518f410" title=" " alt="" coords="673,490,796,515"/>
+<area shape="rect" id="node4" href="$d4/de5/namespaceeismint__forcing.html#a6cb82b0edc316eefe2260794f0501adf" title=" " alt="" coords="655,184,815,224"/>
+<area shape="rect" id="node5" href="$d6/daa/namespacecism__front__end.html#afba5627d5a70076bbc5ee81465df8d60" title=" " alt="" coords="443,184,589,224"/>
+<area shape="rect" id="node7" href="$dd/d24/cism__driver_8_f90.html#a2f012167d76cd57576b314d6c0972507" title=" " alt="" coords="44,134,133,159"/>
+<area shape="rect" id="node9" href="$d7/d59/namespaceglc__finalmod.html#ad05a0e606f9180eb516e3e6fc638816f" title=" " alt="" coords="659,657,810,682"/>
+<area shape="rect" id="node11" href="$d1/da5/namespaceglad__initialise.html#aae632c55b55c8aa4c4ed3f6fbb5ffca0" title=" " alt="" coords="450,273,582,313"/>
+<area shape="rect" id="node12" href="$d7/d57/namespaceglad__main.html#ab9eae54ade29978918fc07f3b8bfe299" title=" " alt="" coords="220,273,387,313"/>
+<area shape="rect" id="node13" href="$dd/dce/namespaceglc__initmod.html#a61b2e495511093ab9ef9001faa61b019" title=" " alt="" coords="5,281,172,306"/>
+<area shape="rect" id="node15" href="$d0/d52/namespaceglint__example__clim.html#a095761c6b6718899699ca6db603a76d7" title=" " alt="" coords="668,69,801,109"/>
+<area shape="rect" id="node16" href="$d9/daf/namespacegcm__to__cism__glint.html#afafd76c73962d09d13cfa10186a63d4d" title=" " alt="" coords="447,69,585,109"/>
+<area shape="rect" id="node18" href="$d6/d87/namespaceglide.html#a8894110427945255ab0c19fb475ff32a" title=" " alt="" coords="671,370,798,395"/>
+<area shape="rect" id="node19" href="$de/dd0/namespaceglint__initialise.html#a404f9857bbe53c5abc6a6d159221574e" title=" " alt="" coords="237,541,369,581"/>
+<area shape="rect" id="node20" href="$de/dd0/namespaceglint__initialise.html#a19af174cedce159db5a05d2e92222407" title=" " alt="" coords="450,363,582,403"/>
+<area shape="rect" id="node21" href="$d3/db8/verif__glide_8_f90.html#a389a014e60e34874a413cf9848d2338a" title=" " alt="" coords="479,487,553,513"/>
+<area shape="rect" id="node25" href="$d6/dfa/namespaceglint__mbal.html#aab0ce3953f23596c40d5334c20255108" title=" " alt="" coords="649,549,821,574"/>
+<area shape="rect" id="node26" href="$d4/d0a/namespaceglint__mbal__coupling.html#a88a5dabf0f74de2792bcb0335e4fb2c6" title=" " alt="" coords="448,541,584,581"/>
+<area shape="rect" id="node29" href="$d6/dfa/namespaceglint__mbal.html#a466b2fb22cb0fc1e4728ce0dc4281c98" title=" " alt="" coords="645,706,824,731"/>
+<area shape="rect" id="node30" href="$d4/d0a/namespaceglint__mbal__coupling.html#aa613d0025e516d4fd8ab7d20689dbff4" title=" " alt="" coords="435,699,597,739"/>
+<area shape="rect" id="node31" href="$d9/da2/namespaceglint__timestep.html#a56e526c2648f26d64913173c18737220" title=" " alt="" coords="236,699,371,739"/>
+</map>

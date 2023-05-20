@@ -1,0 +1,5 @@
+<map id="astronomy_mod::orbital_time" name="astronomy_mod::orbital_time">
+<area shape="rect" id="node1" title="Orbital time returns the time (1 year = 2*pi) since autumnal equinox." alt="" coords="224,60,415,85"/>
+<area shape="rect" id="node2" href="$d0/d33/interfaceastronomy__mod_1_1daily__mean__solar.html#ae01243bef3fd8e78054366a6212cb7af" title="daily_mean_solar_cal_2d receives time_type inputs, converts them to real variables and then calls dai..." alt="" coords="5,5,176,60"/>
+<area shape="rect" id="node3" href="$da/d74/interfaceastronomy__mod_1_1diurnal__solar.html#a600334402a2cc2845649acda0259143b" title="diurnal_solar_cal_2d receives time_type inputs, converts them to real variables and then calls diurna..." alt="" coords="10,84,171,139"/>
+</map>

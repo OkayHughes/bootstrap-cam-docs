@@ -1,0 +1,4 @@
+<map id="atmos_ocean_fluxes_mod::atmos_ocean_type_fluxes_init" name="atmos_ocean_fluxes_mod::atmos_ocean_type_fluxes_init">
+<area shape="rect" id="node1" title="Initialize the coupler type flux tracers." alt="" coords="260,5,432,60"/>
+<area shape="rect" id="node2" href="$db/d45/namespaceatmos__ocean__fluxes__mod.html#af3814a4cf6be2f317d74e21269b69758" title="Initialize gas flux structures." alt="" coords="5,13,212,53"/>
+</map>

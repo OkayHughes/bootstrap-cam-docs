@@ -1,0 +1,4 @@
+<map id="fv_nggps_diags_mod::fv_nggps_diag_init" name="fv_nggps_diags_mod::fv_nggps_diag_init">
+<area shape="rect" id="node1" title=" " alt="" coords="252,5,397,45"/>
+<area shape="rect" id="node2" href="$d5/df8/namespaceatmosphere__mod.html#a308f4e617ef0435362450af0af35234b" title="The subroutine &#39;atmosphere_nggps_diag&#39; is an API to trigger output of diagnostics in NCEP/EMC format." alt="" coords="5,5,204,45"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="pio_nf::pio_inquire::inquire_id" name="pio_nf::pio_inquire::inquire_id">
+<area shape="rect" id="node1" title="Gets metadata information for netcdf file." alt="" coords="5,73,132,113"/>
+<area shape="rect" id="node2" href="$d0/d12/group___p_i_o__inquire.html#ga0145a80fb028e8f80fa545dd45bdf2bf" title="Get information about the number of global attributes in a file or group." alt="" coords="192,5,327,31"/>
+<area shape="rect" id="node3" href="$d0/d12/group___p_i_o__inquire.html#ga6c4b1ac748a3ca0c85360f0d1362309d" title="Get information about the number of dimensions of a file or group." alt="" coords="189,55,330,80"/>
+<area shape="rect" id="node4" href="$d0/d12/group___p_i_o__inquire.html#ga64f78f2105aa0c8114a9995c114b738d" title="Get information about the number of variables in a file or group." alt="" coords="190,104,329,129"/>
+<area shape="rect" id="node5" href="$d0/d12/group___p_i_o__inquire.html#ga4e62e2c5174c482a51467a542f22b6ca" title="Get information about the unlimited dimension in a file." alt="" coords="180,153,339,179"/>
+</map>

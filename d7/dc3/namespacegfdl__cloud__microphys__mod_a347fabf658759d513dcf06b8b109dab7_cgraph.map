@@ -1,0 +1,4 @@
+<map id="gfdl_cloud_microphys_mod::qsmith" name="gfdl_cloud_microphys_mod::qsmith">
+<area shape="rect" id="node1" title="The function &#39;qsmith&#39; computes the saturated specific humidity with a blend of water and ice dependin..." alt="" coords="5,5,153,45"/>
+<area shape="rect" id="node2" href="$d7/dc3/namespacegfdl__cloud__microphys__mod.html#aabd72bfe63bb05b2070467d7201a6ddf" title="The subroutine &#39;qsmith_init&#39; initializes lookup tables for saturation water vapor pressure for the fo..." alt="" coords="201,5,349,45"/>
+</map>

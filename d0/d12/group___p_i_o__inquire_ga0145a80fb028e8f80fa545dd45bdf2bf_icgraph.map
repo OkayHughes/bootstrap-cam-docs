@@ -1,0 +1,4 @@
+<map id="pio_nf::inq_natts_id" name="pio_nf::inq_natts_id">
+<area shape="rect" id="node1" title="Get information about the number of global attributes in a file or group." alt="" coords="180,13,315,38"/>
+<area shape="rect" id="node2" href="$d9/d6c/interfacepio__nf_1_1pio__inquire.html#aca1e039f3ed0b0f31cfa4424938d84f5" title="Gets metadata information for netcdf file." alt="" coords="5,5,132,45"/>
+</map>

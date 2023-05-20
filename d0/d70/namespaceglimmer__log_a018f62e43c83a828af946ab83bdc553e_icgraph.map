@@ -1,0 +1,52 @@
+<map id="glimmer_log::close_log" name="glimmer_log::close_log">
+<area shape="rect" id="node1" title="close log file" alt="" coords="1104,118,1259,144"/>
+<area shape="rect" id="node2" href="$d8/d99/namespaceglide__lithot3d.html#aa7173e164b42561fb89bc83d5f9e2e3a" title=" " alt="" coords="221,283,352,323"/>
+<area shape="rect" id="node4" href="$d6/daa/namespacecism__front__end.html#af97ff6c77409027696f8ff3c3aa67cf1" title=" " alt="" coords="213,219,360,259"/>
+<area shape="rect" id="node5" href="$d7/d57/namespaceglad__main.html#a9b90773429ae70b24be22b29a0d41c71" title=" " alt="" coords="689,68,830,93"/>
+<area shape="rect" id="node7" href="$d3/db8/verif__glide_8_f90.html#a389a014e60e34874a413cf9848d2338a" title=" " alt="" coords="34,1376,109,1401"/>
+<area shape="rect" id="node8" href="$d0/d70/namespaceglimmer__log.html#a690118c42311d82e3cd39e2d4a246269" title="write to log" alt="" coords="904,1384,1056,1409"/>
+<area shape="rect" id="node3" href="$da/d55/namespaceglide__lithot.html#ac2b10a4437bea436e45db62da2733955" title=" " alt="" coords="13,223,129,263"/>
+<area shape="rect" id="node6" href="$d7/d59/namespaceglc__finalmod.html#ad05a0e606f9180eb516e3e6fc638816f" title=" " alt="" coords="450,68,601,93"/>
+<area shape="rect" id="node9" href="$d7/d3c/glimmer__ncparams_8_f90.html#ae7eb9177961be46716f3413f4937a168" title=" " alt="" coords="686,1312,833,1352"/>
+<area shape="rect" id="node10" href="$de/dc3/namespaceglissade__basal__traction.html#a09004f6923178f1835d158df1c71393c" title=" " alt="" coords="680,1376,839,1416"/>
+<area shape="rect" id="node11" href="$db/d8e/interfaceglimmer__utils_1_1check__conformal.html#ae369f95cf10ba8eeb4a5aac128a77445" title=" " alt="" coords="663,1441,856,1496"/>
+<area shape="rect" id="node12" href="$d0/d52/namespaceglint__example__clim.html#a54171ee29f0a152793c2929f7ff9a4eb" title=" " alt="" coords="693,1520,826,1560"/>
+<area shape="rect" id="node13" href="$d2/deb/namespaceglide__nonlin.html#aa459661acf8518efe532f1dfb2d7cc15" title=" " alt="" coords="693,1584,826,1624"/>
+<area shape="rect" id="node14" href="$d0/d99/namespaceglimmer__config.html#a5fa7e4f048448efc790971153ae13853" title="traverse linked list and check that all sections have been used" alt="" coords="185,1046,388,1072"/>
+<area shape="rect" id="node15" href="$d1/da5/namespaceglad__initialise.html#aae632c55b55c8aa4c4ed3f6fbb5ffca0" title=" " alt="" coords="5,656,137,696"/>
+<area shape="rect" id="node16" href="$d0/d99/namespaceglimmer__config.html#a6af0274637fba6efa568bc2b42f1476e" title="read a configuration file" alt="" coords="436,2289,615,2314"/>
+<area shape="rect" id="node17" href="$db/d35/namespaceglimmer__coordinates.html#a376c2e574aa28ef224fc81b056df939b" title="expand linearisation" alt="" coords="665,1787,853,1827"/>
+<area shape="rect" id="node18" href="$db/d35/namespaceglimmer__coordinates.html#ad895cc595d74188cf76bb2d26d095ec3" title="get coordinates of node" alt="" coords="675,1875,844,1915"/>
+<area shape="rect" id="node19" href="$db/d35/namespaceglimmer__coordinates.html#ad1a36fb45ccec367017911906bb176aa" title="get index of nearest node given coords of a point" alt="" coords="677,1963,842,2003"/>
+<area shape="rect" id="node20" href="$db/d35/namespaceglimmer__coordinates.html#a5e8f5ae525bb993498ac1285577ef8c6" title="linearise node, given coord" alt="" coords="672,2051,847,2091"/>
+<area shape="rect" id="node21" href="$d2/d9f/namespaceglide__stop.html#aadbc816f103c9937d01eedaac7f9f9ff" title=" " alt="" coords="686,398,833,438"/>
+<area shape="rect" id="node22" href="$d2/d9f/namespaceglide__stop.html#aaca6096e17c8ddc02285f263c8cf570c" title=" " alt="" coords="443,318,607,344"/>
+<area shape="rect" id="node23" href="$d2/dc2/namespaceglint__ebm.html#add5c2fb7bc014808bd4a17034e7f22c5" title=" " alt="" coords="672,2116,847,2141"/>
+<area shape="rect" id="node24" href="$d2/dc2/namespaceglint__ebm.html#a806e79859bdc76a0c0193dc0bdc7c9a1" title=" " alt="" coords="668,2165,851,2190"/>
+<area shape="rect" id="node25" href="$d4/de5/namespaceeismint__forcing.html#aa22b84541c04157bb8116d053d8ba2ca" title=" " alt="" coords="679,2215,839,2255"/>
+<area shape="rect" id="node26" href="$d5/d26/namespaceglint__global__interp.html#a5b14af79b6868947eacdb23684472a9a" title=" " alt="" coords="696,2279,823,2319"/>
+<area shape="rect" id="node27" href="$da/d55/namespaceglide__lithot.html#a84b74c4003077f562c94dad8a29336b1" title=" " alt="" coords="693,2343,826,2383"/>
+<area shape="rect" id="node28" href="$db/d79/namespaceglint__routing.html#afbcc6c94487b89bbb340e3cca80f8e9d" title=" " alt="" coords="697,2407,821,2447"/>
+<area shape="rect" id="node29" href="$d9/daf/namespacegcm__to__cism__glint.html#afafd76c73962d09d13cfa10186a63d4d" title=" " alt="" coords="690,2471,829,2511"/>
+<area shape="rect" id="node30" href="$db/d4e/namespaceglimmer__filenames.html#ad5a79e857634ddba92dbcae7737514de" title="returns the next free file unit between 20 and 100" alt="" coords="690,2559,829,2599"/>
+<area shape="rect" id="node31" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#a3f506ce011a8142ef5eff1c7391aca8e" title="get character value" alt="" coords="676,2623,843,2663"/>
+<area shape="rect" id="node32" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#afb1047e169fb5ee01c271714d787e0b3" title="get character array value" alt="" coords="676,2687,843,2727"/>
+<area shape="rect" id="node33" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#ac470758f6e4cee0930626bc8c0258f20" title="get double array value" alt="" coords="676,2751,843,2791"/>
+<area shape="rect" id="node34" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#a78651fa0a94b71e076905f5f2d6ee59b" title="get integer value array" alt="" coords="676,2815,843,2855"/>
+<area shape="rect" id="node35" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#a04d0a7259c27f849d85e6159de81b6f1" title="get logical value" alt="" coords="676,219,843,259"/>
+<area shape="rect" id="node36" href="$de/d6e/interfaceglimmer__config_1_1getvalue.html#a0c8fa7d054f2310a63652454611e4b5b" title="get real array value" alt="" coords="676,283,843,323"/>
+<area shape="rect" id="node37" href="$d7/d57/namespaceglad__main.html#a84f657a078526b51e7e0d92a7e9e2ee9" title=" " alt="" coords="453,1678,598,1704"/>
+<area shape="rect" id="node38" href="$db/d40/glad__type_8_f90.html#aff7f8fa98f14db1dff82ff7b96779034" title=" " alt="" coords="217,462,357,488"/>
+<area shape="rect" id="node39" href="$d7/dd7/namespaceglad__timestep.html#a7426b6d2406efad6e232e5410ec335f9" title=" " alt="" coords="692,1699,827,1739"/>
+<area shape="rect" id="node40" href="$d9/d76/namespaceglc__io.html#a388478678f45b8b2f78c2b5a1f357dfc" title=" " alt="" coords="688,563,831,603"/>
+<area shape="rect" id="node41" href="$d0/d52/namespaceglint__example__clim.html#a7957f684f15878634d365698c9d5d2d8" title=" " alt="" coords="683,627,835,667"/>
+<area shape="rect" id="node42" href="$d0/d52/namespaceglint__example__clim.html#aedd4a55f83e75b8f280004ca369559b6" title=" " alt="" coords="683,691,835,731"/>
+<area shape="rect" id="node43" href="$d5/d1f/namespaceglide__types.html#a1433166610bc78322c91aa4da74c30f4" title=" " alt="" coords="464,870,587,910"/>
+<area shape="rect" id="node44" href="$d6/d87/namespaceglide.html#ac488bd2691b28bf2abd96dbea5053ea5" title=" " alt="" coords="217,845,356,870"/>
+<area shape="rect" id="node45" href="$d1/d6c/namespaceglide__setup.html#ada65c88fb6c7dc1da566d946542249d6" title=" " alt="" coords="698,931,821,971"/>
+<area shape="rect" id="node46" href="$d1/d6c/namespaceglide__setup.html#a9ea40547febcb994ec9a5524a03ce79a" title=" " alt="" coords="464,934,587,974"/>
+<area shape="rect" id="node47" href="$da/d28/namespaceglide__diagnostics.html#a67e725f51f1696006a553bbd9f797aca" title=" " alt="" coords="460,806,591,846"/>
+<area shape="rect" id="node48" href="$d1/d6c/namespaceglide__setup.html#aeb088a19092c6fac16ac996e3265408f" title=" " alt="" coords="698,1096,821,1136"/>
+<area shape="rect" id="node49" href="$da/d28/namespaceglide__diagnostics.html#a054e2bf0fd79d7041b760c4449da54a5" title=" " alt="" coords="694,1160,825,1200"/>
+<area shape="rect" id="node50" href="$de/d40/namespaceglimmer__map__cfproj.html#ac40740bdea41b34ae667608bce0ec6f5" title="Read projection from a given netCDF file, returning an instance of type glimmap_proj." alt="" coords="690,1248,829,1288"/>
+</map>

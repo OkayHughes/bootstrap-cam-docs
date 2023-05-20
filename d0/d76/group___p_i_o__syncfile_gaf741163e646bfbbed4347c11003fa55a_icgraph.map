@@ -1,0 +1,5 @@
+<map id="syncfile" name="syncfile">
+<area shape="rect" id="node1" title="synchronizing a file forces all writes to complete before the subroutine returns." alt="" coords="191,31,257,56"/>
+<area shape="rect" id="node2" href="$d0/d14/pio1_2pio_2piolib__mod_8_f90.html#ab31b8f6af4e1f3ab31ec31816b492e69" title=" " alt="" coords="5,5,143,31"/>
+<area shape="rect" id="node3" href="$de/da8/group___p_i_o__openfile.html#gafc3368f534449ff7ae580ee987ace8d3" title="Open an existing file using PIO. Input parameters are read on comp task 0 and ignored elsewhere." alt="" coords="29,55,119,80"/>
+</map>

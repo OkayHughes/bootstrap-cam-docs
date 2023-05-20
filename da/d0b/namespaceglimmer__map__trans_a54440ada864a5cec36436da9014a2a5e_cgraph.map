@@ -1,0 +1,3 @@
+<map id="glimmer_map_trans::loncorrect" name="glimmer_map_trans::loncorrect">
+<area shape="rect" id="node1" title="Normalises a value of longitude to the range starting at min degrees." alt="" coords="5,29,149,69"/>
+</map>

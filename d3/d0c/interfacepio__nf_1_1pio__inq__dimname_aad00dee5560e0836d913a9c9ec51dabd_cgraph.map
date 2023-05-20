@@ -1,0 +1,4 @@
+<map id="pio_nf::pio_inq_dimname::inq_dimname_id" name="pio_nf::pio_inq_dimname::inq_dimname_id">
+<area shape="rect" id="node1" title="Get information about the name of of a dimension." alt="" coords="5,5,172,45"/>
+<area shape="rect" id="node2" href="$d4/d32/namespacepio__support.html#abcbf3a9d77e36435f9110d1efe8fb19a" title="Remove null termination (C&#45;style) from strings for Fortran." alt="" coords="220,5,359,45"/>
+</map>

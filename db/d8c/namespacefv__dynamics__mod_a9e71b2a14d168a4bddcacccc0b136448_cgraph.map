@@ -1,0 +1,6 @@
+<map id="fv_dynamics_mod::calc_tot_energy_dynamics1" name="fv_dynamics_mod::calc_tot_energy_dynamics1">
+<area shape="rect" id="node1" title=" " alt="" coords="5,33,165,73"/>
+<area shape="rect" id="node2" href="$dc/dcd/namespacefv__grid__utils__mod.html#a8fa9923988d7afeb54c67bf5a92777bc" title=" " alt="" coords="393,5,525,45"/>
+<area shape="rect" id="node3" href="$dc/dcd/namespacefv__grid__utils__mod.html#a41d77310cefec9ce0f98f0afe2440d67" title=" " alt="" coords="213,33,345,73"/>
+<area shape="rect" id="node4" href="$dc/dcd/namespacefv__grid__utils__mod.html#acf53e76b1bc9e689efe4900919cd05ef" title="The function &#39;g_sum&#39; is the fast version of &#39;globalsum&#39;." alt="" coords="213,121,345,161"/>
+</map>

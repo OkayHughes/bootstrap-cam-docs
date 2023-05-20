@@ -1,0 +1,5 @@
+<map id="glimmer_log::glimmer_get_logunit" name="glimmer_log::glimmer_get_logunit">
+<area shape="rect" id="node1" title="return glimmer log unit" alt="" coords="223,73,369,113"/>
+<area shape="rect" id="node2" href="$db/d35/namespaceglimmer__coordinates.html#ad895cc595d74188cf76bb2d26d095ec3" title="get coordinates of node" alt="" coords="5,29,175,69"/>
+<area shape="rect" id="node3" href="$db/d35/namespaceglimmer__coordinates.html#ad1a36fb45ccec367017911906bb176aa" title="get index of nearest node given coords of a point" alt="" coords="7,117,173,157"/>
+</map>

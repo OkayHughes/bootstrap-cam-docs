@@ -1,0 +1,5 @@
+<map id="io_desc_t" name="io_desc_t">
+<area shape="rect" id="node1" title="An io descriptor handle that is generated in PIO_initdecomp (see pio_types)" alt="" coords="12,200,91,225"/>
+<area shape="rect" id="node2" href="$dc/dbf/structio__region.html" title=" " alt="" coords="94,95,169,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,60,31"/>
+</map>

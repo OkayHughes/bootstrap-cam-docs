@@ -1,0 +1,19 @@
+<map id="glimmer_map_init::glimmap_stere_init" name="glimmer_map_init::glimmap_stere_init">
+<area shape="rect" id="node1" title="initialise stereographic projection" alt="" coords="1275,132,1456,172"/>
+<area shape="rect" id="node2" href="$de/d40/namespaceglimmer__map__cfproj.html#ac40740bdea41b34ae667608bce0ec6f5" title="Read projection from a given netCDF file, returning an instance of type glimmap_proj." alt="" coords="1067,89,1205,129"/>
+<area shape="rect" id="node15" href="$dc/d63/namespaceglimmer__map__init.html#a87cd9ea6f431a809b76c773dc05bdd0b" title="Defines a projection from scratch, and initialises the other elements appropriately." alt="" coords="1045,164,1227,204"/>
+<area shape="rect" id="node3" href="$df/d42/glimmer__ncio_8_f90.html#ad940c34c5631cea807bc486390d6c98e" title=" " alt="" coords="863,94,951,119"/>
+<area shape="rect" id="node4" href="$d1/da5/namespaceglad__initialise.html#aae632c55b55c8aa4c4ed3f6fbb5ffca0" title=" " alt="" coords="442,69,574,109"/>
+<area shape="rect" id="node7" href="$d6/d87/namespaceglide.html#ac488bd2691b28bf2abd96dbea5053ea5" title=" " alt="" coords="629,149,768,174"/>
+<area shape="rect" id="node11" href="$de/dd0/namespaceglint__initialise.html#a404f9857bbe53c5abc6a6d159221574e" title=" " alt="" coords="442,248,574,288"/>
+<area shape="rect" id="node12" href="$de/dd0/namespaceglint__initialise.html#a19af174cedce159db5a05d2e92222407" title=" " alt="" coords="442,5,574,45"/>
+<area shape="rect" id="node14" href="$d8/ddc/namespaceglissade.html#ad1f10813bf23c6f76e880f754d388c80" title=" " alt="" coords="635,84,762,124"/>
+<area shape="rect" id="node5" href="$d7/d57/namespaceglad__main.html#ab9eae54ade29978918fc07f3b8bfe299" title=" " alt="" coords="220,69,387,109"/>
+<area shape="rect" id="node6" href="$dd/dce/namespaceglc__initmod.html#a61b2e495511093ab9ef9001faa61b019" title=" " alt="" coords="5,77,172,102"/>
+<area shape="rect" id="node8" href="$d6/daa/namespacecism__front__end.html#afba5627d5a70076bbc5ee81465df8d60" title=" " alt="" coords="435,133,581,173"/>
+<area shape="rect" id="node13" href="$d3/db8/verif__glide_8_f90.html#a389a014e60e34874a413cf9848d2338a" title=" " alt="" coords="471,198,545,223"/>
+<area shape="rect" id="node9" href="$d4/d3f/namespacegcm__cism__interface.html#a195507ef83cbca1225a59356c374ce2d" title=" " alt="" coords="234,133,373,173"/>
+<area shape="rect" id="node10" href="$dd/d24/cism__driver_8_f90.html#a2f012167d76cd57576b314d6c0972507" title=" " alt="" coords="44,141,133,166"/>
+<area shape="rect" id="node16" href="$dc/d63/namespaceglimmer__map__init.html#a94350313a9b6015083fbb4839f93d66d" title="read projection configuration from file" alt="" coords="816,185,997,225"/>
+<area shape="rect" id="node17" href="$d6/d87/namespaceglide.html#a8894110427945255ab0c19fb475ff32a" title=" " alt="" coords="635,198,762,223"/>
+</map>

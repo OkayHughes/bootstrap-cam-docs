@@ -1,0 +1,8 @@
+<map id="glimmer_map_trans::glimmap_xy_to_ll" name="glimmer_map_trans::glimmap_xy_to_ll">
+<area shape="rect" id="node1" title="Convert grid coordinates to lat&#45;lon coordinates." alt="" coords="5,59,149,99"/>
+<area shape="rect" id="node2" href="$da/d0b/namespaceglimmer__map__trans.html#a54440ada864a5cec36436da9014a2a5e" title="Normalises a value of longitude to the range starting at min degrees." alt="" coords="201,29,345,69"/>
+<area shape="rect" id="node3" href="$d0/d70/namespaceglimmer__log.html#a690118c42311d82e3cd39e2d4a246269" title="write to log" alt="" coords="197,94,349,119"/>
+<area shape="rect" id="node4" href="$d0/d70/namespaceglimmer__log.html#a018f62e43c83a828af946ab83bdc553e" title="close log file" alt="" coords="397,69,552,94"/>
+<area shape="rect" id="node6" href="$d1/d80/namespaceparallel.html#ad65d2cda5047342220f8371b3459e8ff" title=" " alt="" coords="403,118,547,143"/>
+<area shape="rect" id="node5" href="$d0/d70/namespaceglimmer__log.html#ac1a7f72ca3f16ce04764793f68cbddea" title="start a new section" alt="" coords="600,61,728,101"/>
+</map>

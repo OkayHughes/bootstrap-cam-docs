@@ -1,0 +1,4 @@
+<map id="astronomy_mod::universal_time" name="astronomy_mod::universal_time">
+<area shape="rect" id="node1" title="universal_time returns the time of day at longitude = 0.0 (1 day = 2*pi)" alt="" coords="215,20,421,45"/>
+<area shape="rect" id="node2" href="$da/d74/interfaceastronomy__mod_1_1diurnal__solar.html#a600334402a2cc2845649acda0259143b" title="diurnal_solar_cal_2d receives time_type inputs, converts them to real variables and then calls diurna..." alt="" coords="5,5,167,60"/>
+</map>

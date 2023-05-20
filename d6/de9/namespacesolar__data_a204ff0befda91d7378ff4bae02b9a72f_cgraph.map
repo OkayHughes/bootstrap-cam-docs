@@ -1,0 +1,9 @@
+<map id="solar_data::solar_data_advance" name="solar_data::solar_data_advance">
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,156,141"/>
+<area shape="rect" id="node2" href="$dd/d1a/namespacesolar__euv__data.html#a2ca2d5379363edb9c03deeb795479801" title=" " alt="" coords="211,5,358,45"/>
+<area shape="rect" id="node3" href="$d2/ddc/namespacesolar__irrad__data.html#a73bb40ff226f256cfaaf405f6e1b06a0" title=" " alt="" coords="209,69,360,109"/>
+<area shape="rect" id="node6" href="$d0/da2/namespacesolar__parms__data.html#af46823d8724566c546b87db58724e6ac" title=" " alt="" coords="204,133,365,173"/>
+<area shape="rect" id="node7" href="$d0/d87/namespacesolar__wind__data.html#a439c5fd5dd70374af5abba301ab706cf" title=" " alt="" coords="209,197,361,237"/>
+<area shape="rect" id="node4" href="$d7/d2d/endrun_8f90.html#ae2362fb693d74548a85b4217c6b5a30b" title=" " alt="" coords="413,77,475,102"/>
+<area shape="rect" id="node5" href="$d8/d03/abort_8_f90.html#a8dd7dedb7d2456097fb8c5e423dc180e" title=" " alt="" coords="523,77,573,102"/>
+</map>

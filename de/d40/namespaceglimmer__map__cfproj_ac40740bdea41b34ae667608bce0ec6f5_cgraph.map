@@ -1,0 +1,14 @@
+<map id="glimmer_map_cfproj::glimmap_cfgetproj" name="glimmer_map_cfproj::glimmap_cfgetproj">
+<area shape="rect" id="node1" title="Read projection from a given netCDF file, returning an instance of type glimmap_proj." alt="" coords="5,227,144,267"/>
+<area shape="rect" id="node2" href="$dc/d63/namespaceglimmer__map__init.html#a1d03257ec2c389239b2cf00242d7815b" title="initialise Lambert azimuthal equal area projection" alt="" coords="192,5,373,45"/>
+<area shape="rect" id="node3" href="$dc/d63/namespaceglimmer__map__init.html#a3ed8a91682ddfda5061cbf9dc8f98425" title="initialise Lambert azimuthal equal area projection" alt="" coords="192,69,373,109"/>
+<area shape="rect" id="node4" href="$dc/d63/namespaceglimmer__map__init.html#ac275b5f0468737fb586fcd48f706f280" title="initialise Lambert conformal conic projection" alt="" coords="192,133,373,173"/>
+<area shape="rect" id="node5" href="$dc/d63/namespaceglimmer__map__init.html#af7be18f25557157bf06c5ebde0b27e31" title="initialise stereographic projection" alt="" coords="192,197,373,237"/>
+<area shape="rect" id="node6" href="$d0/d70/namespaceglimmer__log.html#a690118c42311d82e3cd39e2d4a246269" title="write to log" alt="" coords="421,234,573,259"/>
+<area shape="rect" id="node10" href="$d1/d80/namespaceparallel.html#a9100887f3ea5e9943aa009317b713fe1" title=" " alt="" coords="227,336,339,376"/>
+<area shape="rect" id="node11" href="$d1/d80/namespaceparallel.html#a357cee99b4deff42c7883778fee171a9" title=" " alt="" coords="227,424,339,464"/>
+<area shape="rect" id="node12" href="$d1/d80/namespaceparallel.html#aca151bcb72038a08d97c7df8052d9751" title=" " alt="" coords="223,512,342,552"/>
+<area shape="rect" id="node7" href="$d0/d70/namespaceglimmer__log.html#a018f62e43c83a828af946ab83bdc553e" title="close log file" alt="" coords="621,209,776,234"/>
+<area shape="rect" id="node9" href="$d1/d80/namespaceparallel.html#ad65d2cda5047342220f8371b3459e8ff" title=" " alt="" coords="627,258,771,283"/>
+<area shape="rect" id="node8" href="$d0/d70/namespaceglimmer__log.html#ac1a7f72ca3f16ce04764793f68cbddea" title="start a new section" alt="" coords="824,201,952,241"/>
+</map>

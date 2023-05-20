@@ -1,0 +1,10 @@
+<map id="glad_main::glad_initialize" name="glad_main::glad_initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,95,172,121"/>
+<area shape="rect" id="node2" href="$d0/d99/namespaceglimmer__config.html#a6af0274637fba6efa568bc2b42f1476e" title="read a configuration file" alt="" coords="220,38,399,63"/>
+<area shape="rect" id="node7" href="$dc/d08/namespaceglad__constants.html#ac919ae1534e5eb232978fd85da1a9331" title=" " alt="" coords="238,88,381,128"/>
+<area shape="rect" id="node8" href="$db/d4e/namespaceglimmer__filenames.html#a18bb4ac509e0e54039e18e4f558b5ecd" title="append path to working dir" alt="" coords="240,176,379,216"/>
+<area shape="rect" id="node3" href="$d0/d70/namespaceglimmer__log.html#a690118c42311d82e3cd39e2d4a246269" title="write to log" alt="" coords="447,38,599,63"/>
+<area shape="rect" id="node4" href="$d0/d70/namespaceglimmer__log.html#a018f62e43c83a828af946ab83bdc553e" title="close log file" alt="" coords="647,13,801,38"/>
+<area shape="rect" id="node6" href="$d1/d80/namespaceparallel.html#ad65d2cda5047342220f8371b3459e8ff" title=" " alt="" coords="652,62,796,87"/>
+<area shape="rect" id="node5" href="$d0/d70/namespaceglimmer__log.html#ac1a7f72ca3f16ce04764793f68cbddea" title="start a new section" alt="" coords="849,5,977,45"/>
+</map>
